@@ -74,7 +74,7 @@ npm run build
 ---
 
 ## Live Demo
-
+wikigaze-matrix-made-by-react-js-72.vercel.app
 
 
 ## GitHub Repository
@@ -89,3 +89,26 @@ Name : Antara Palwankar
 Course : Computer Engineering
 
 Project : React.js Case Study
+
+<img width="1461" height="879" alt="image" src="https://github.com/user-attachments/assets/8d66aa5a-99cc-43d9-bc96-11ccba7d8d73" />
+<img width="1461" height="879" alt="image" src="https://github.com/user-attachments/assets/c4a50fbc-15a1-4529-b571-0e25df93748e" />
+<img width="1461" height="879" alt="image" src="https://github.com/user-attachments/assets/c83a36f1-9f93-4856-ae33-2e7b8e410e5e" />
+<img width="1461" height="879" alt="image" src="https://github.com/user-attachments/assets/43215f4f-ba8e-441c-9756-8659553b711b" />
+<img width="1461" height="879" alt="image" src="https://github.com/user-attachments/assets/2ac16c5f-8687-41af-b4da-9e268d44cc1a" />
+<img width="1461" height="879" alt="image" src="https://github.com/user-attachments/assets/0e0107fd-c870-4e45-a2d0-ef001c37b3b5" />
+<img width="1461" height="879" alt="image" src="https://github.com/user-attachments/assets/602de846-a45a-45a3-bc95-00f356eb2d41" />
+<img width="1461" height="879" alt="image" src="https://github.com/user-attachments/assets/9eb191ef-0ad7-44dc-a033-6f0ffb8021a0" />
+<img width="1461" height="879" alt="image" src="https://github.com/user-attachments/assets/12df288f-ea74-498d-b3ff-ebf3539bde16" />
+<img width="1461" height="323" alt="image" src="https://github.com/user-attachments/assets/3dc6d709-6b55-4c1a-b95b-137c473db206" />
+
+
+
+
+
+
+
+
+
+
+
+
