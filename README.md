@@ -1,16 +1,91 @@
-# React + Vite
+# WikiGaze Matrix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
 
-Currently, two official plugins are available:
+WikiGaze Matrix is a React.js based document management dashboard designed to organize, search, verify and manage digital documents through a centralized interface. The application provides multiple modules for keyword organization, search history management, background indexing, security verification, relevance sorting, citation mapping and data balancing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The project follows a component-based architecture and is built using reusable React components with responsive design using Tailwind CSS.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+- React.js
+- React Router DOM
+- Tailwind CSS
+- Vite
+- Context API
+- JavaScript (ES6)
+- Lucide React Icons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- Dashboard Overview
+- Keyword Organizer
+- Search History & Undo
+- Background Indexer
+- Security Checker
+- Relevance Sorter
+- Citation Hub
+- Quick Reference Finder
+- Data Balancer
+- Document Upload
+- Document Delete
+- Responsive User Interface
+
+---
+
+## Project Structure
+
+src/
+├── assets/
+├── components/
+├── context/
+├── data/
+├── hooks/
+├── layouts/
+├── pages/
+├── routes/
+├── App.jsx
+└── main.jsx
+
+---
+
+## Installation
+
+Clone the repository
+
+git clone <repository-link>
+
+Install dependencies
+
+npm install
+
+Run the development server
+
+npm run dev
+
+Create production build
+
+npm run build
+
+---
+
+## Live Demo
+
+
+
+## GitHub Repository
+https://github.com/Antaraaaa14/Wikigaze-Matrix-Made-by-react-js
+
+---
+
+## Author
+
+Name : Antara Palwankar
+
+Course : Computer Engineering
+
+Project : React.js Case Study
