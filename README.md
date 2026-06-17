@@ -31,10 +31,9 @@ Managing digital documents manually often leads to poor organization, difficult 
 
 ⸻
 
-2.4 🏗️ System Overview / Architecture
+## 🏗️ 2.4 System Overview / Architecture
 
-The application follows a modular component-based architecture.
-
+```
 WikiGaze Matrix
 │
 ├── Pages
@@ -55,12 +54,17 @@ WikiGaze Matrix
 │   ├── StatsCard
 │   └── SearchBar
 │
+├── Layouts
+│   └── DashboardLayout
+│
 ├── Context
 │   └── DocumentContext
 │
 └── Hooks
     └── useDocuments
-⸻
+```
+
+The application uses a modular architecture with reusable components, centralized state management, and React Router for seamless navigation between modules.
 
 2.5 🛠️ Technologies Used
 
