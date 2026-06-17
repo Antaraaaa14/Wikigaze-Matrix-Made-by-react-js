@@ -12,7 +12,7 @@ Managing a large collection of digital documents can become difficult without pr
 
 WikiGaze Matrix addresses these challenges by providing a single dashboard that allows users to organize documents, track search history, monitor indexing status, verify document security, and visualize document relationships in an efficient manner.
 
-⸻
+-
 
 2.3 🚀 Objectives
 
@@ -23,32 +23,41 @@ WikiGaze Matrix addresses these challenges by providing a single dashboard that 
 * Develop reusable and scalable React components.
 * Create a clean, responsive, and user-friendly interface.
 
-⸻
+-
+## 🏗️ 2.4 System Overview / Architecture
 
-2.4 🏗️ System Overview / Architecture
-
-The application follows a modular component-based architecture where each feature is developed independently and connected through React Router.
-
+```
 WikiGaze Matrix
+│
+├── Pages
+│   ├── Dashboard
+│   ├── Keyword Organizer
+│   ├── Search History
+│   ├── Background Indexer
+│   ├── Security Checker
+│   ├── Relevance Sorter
+│   ├── Citation Hub
+│   ├── Quick Reference Finder
+│   └── Data Balancer
+│
+├── Components
+│   ├── Navbar
+│   ├── Sidebar
+│   ├── FeatureCard
+│   ├── StatsCard
+│   └── SearchBar
+│
+├── Layouts
+│   └── DashboardLayout
+│
+├── Context
+│   └── DocumentContext
+│
+└── Hooks
+    └── useDocuments
+```
 
-├── Dashboard
-├── Keyword Organizer
-├── Search History
-├── Background Indexer
-├── Security Checker
-├── Relevance Sorter
-├── Citation Hub
-├── Quick Reference Finder
-└── Data Balancer
-
-Shared Components
-├── Navbar
-├── Sidebar
-├── FeatureCard
-├── StatsCard
-└── SearchBar
-
-This architecture improves maintainability, code reusability, and scalability while keeping the application organized.
+The application uses a modular architecture with reusable components, centralized state management, and React Router for seamless navigation between modules.
 
 ⸻
 
